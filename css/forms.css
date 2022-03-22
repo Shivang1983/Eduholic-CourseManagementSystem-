@@ -1,0 +1,91 @@
+.main_container_a{
+    text-align: center;
+    padding: 2%;
+    margin: 5% auto;
+}
+.form_container_a{
+    background-color: #fff;
+    text-align: center;
+    padding: 20px 3% 20px;
+    width: 300px;
+    margin: 3% auto;
+    font-family: 'Noto Sans', sans-serif;
+    border-radius: 10px;
+}
+.form_container_a input{
+    padding: 2%;
+    width: 100%;
+    border: none;
+    border-radius: 5px;
+    border-bottom: 2px solid;
+}
+.form_container_a input:focus{
+    outline: none;
+}
+.form_container_a input::placeholder{
+    color: #111;
+    font-family: 'Noto Sans', sans-serif;
+}
+#login_btn{
+    width: 100px;
+    background: #000000;
+    color: #fff;
+    padding: 3%;
+    font-family: 'Noto Sans', sans-serif;
+}
+#sign_btn{
+    width: 200px;
+    background: #000000;
+    color: #fff;
+    padding: 3%;
+    font-family: 'Noto Sans', sans-serif;
+}
+#reset_btn{
+    width: 200px;
+    background: #000000;
+    color: #fff;
+    padding: 3%;
+    font-family: 'Noto Sans', sans-serif;
+}
+.text_style_a{
+    margin-bottom: 25px;
+    font-size: 1.5rem;
+}
+.logo img{
+    width: 200px;
+    border-radius: 5px;
+}
+.form_footer_links_a{
+    margin-top: 10px;
+    font-size: 14px;
+}
+.form_footer_links_a p a{
+    line-height: 20px;
+    text-decoration: none;
+    color: #111;
+}
+.form_style_1{
+    text-align: center;
+}
+.form_style_1 input{
+    padding: 2%;
+    width: 100%;
+    border: none;
+    border-radius: 5px;
+    border-bottom: 2px solid;
+}
+.form_style_1 input:focus{
+    outline: none;
+}
+.form_style_1 input::placeholder{
+    color: #111;
+    font-family: 'Noto Sans', sans-serif;
+}
+#login_btn_2{
+    width: 100px;
+    margin-top: 30px;
+    background: #000000;
+    color: #fff;
+    padding: 10px 20px;
+    font-family: 'Noto Sans', sans-serif;
+}
